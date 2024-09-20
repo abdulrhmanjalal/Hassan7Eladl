@@ -9,7 +9,7 @@ I am a student in the Computer Department_Faculty of Engineering_Cairo Universit
 ### 📫 How to reach me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassaneledel5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hassan-eladl-6344b0328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hassan-eladl)
 
 ### 🛠 Skills
 
